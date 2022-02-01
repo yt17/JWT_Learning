@@ -1,0 +1,10 @@
+C:\Users\taner\source\repos\ApiWithJWT\ModelsDTO\bin\Debug\netcoreapp3.1\ModelsDTO.deps.json
+C:\Users\taner\source\repos\ApiWithJWT\ModelsDTO\bin\Debug\netcoreapp3.1\ModelsDTO.dll
+C:\Users\taner\source\repos\ApiWithJWT\ModelsDTO\bin\Debug\netcoreapp3.1\ModelsDTO.pdb
+C:\Users\taner\source\repos\ApiWithJWT\ModelsDTO\obj\Debug\netcoreapp3.1\ModelsDTO.csproj.AssemblyReference.cache
+C:\Users\taner\source\repos\ApiWithJWT\ModelsDTO\obj\Debug\netcoreapp3.1\ModelsDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taner\source\repos\ApiWithJWT\ModelsDTO\obj\Debug\netcoreapp3.1\ModelsDTO.AssemblyInfoInputs.cache
+C:\Users\taner\source\repos\ApiWithJWT\ModelsDTO\obj\Debug\netcoreapp3.1\ModelsDTO.AssemblyInfo.cs
+C:\Users\taner\source\repos\ApiWithJWT\ModelsDTO\obj\Debug\netcoreapp3.1\ModelsDTO.csproj.CoreCompileInputs.cache
+C:\Users\taner\source\repos\ApiWithJWT\ModelsDTO\obj\Debug\netcoreapp3.1\ModelsDTO.dll
+C:\Users\taner\source\repos\ApiWithJWT\ModelsDTO\obj\Debug\netcoreapp3.1\ModelsDTO.pdb
