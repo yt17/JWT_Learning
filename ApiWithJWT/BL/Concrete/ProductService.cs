@@ -1,8 +1,13 @@
 ﻿using BL.Abstracts;
+using BL.ValidationRules.Concrete;
+using CORE.Aspects.Autofac.Validation;
+using CORE.CrossCuttingConcerns;
 using DAL.Abstracts;
 using Entities;
+using ModelsDTO;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Text;
 
 namespace BL.Concrete
@@ -14,7 +19,22 @@ namespace BL.Concrete
         {
             this.productDal = productDal;
         }
-        public List<Product> GetList()
+        
+
+        [ValidationAspect(typeof(ProductValidator))]
+        public bool AddProduct(ProductDTO product)
+        {
+            // ValidationTool.Validate(new ProductValidator(), product);
+            Product asd = new Product()
+            {
+                ID = product.ID,
+                Name = product.Name
+            };
+            this.productDal.Insert(asd);
+            return true;
+        }
+
+        public List<Product> GetList()  
         {
             return productDal.GetList(null);
         }

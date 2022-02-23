@@ -13,9 +13,11 @@ namespace API.Controllers
     public class AuthController : Controller
     {
         private IAuthService authService;
-        public AuthController(IAuthService authService)
+        private IProductService productService;
+        public AuthController(IAuthService authService,IProductService productService)
         {
             this.authService = authService;
+            this.productService = productService;
         }
         [HttpPost("Login")]
         public IActionResult Login(LoginDTO loginDTO)
@@ -53,6 +55,17 @@ namespace API.Controllers
         public IActionResult test()
         {
             return Ok();
+        }
+
+        [HttpPost("productadd")]
+        public IActionResult ProductAdd(ProductDTO productDTO)
+        {
+            var res = productService.AddProduct(productDTO);
+            if (res)
+            {
+                return Ok("basarili");
+            }
+            return BadRequest("basarisiz");
         }
     }
 }
