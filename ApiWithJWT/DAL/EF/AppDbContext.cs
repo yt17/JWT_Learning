@@ -18,7 +18,7 @@ namespace DAL.EF
             //base.OnConfiguring(optionsBuilder);
             optionsBuilder.UseSqlServer(@"Server=DESKTOP-HLDC6L5\SQLEXPRESS;Database=Yusuf;Integrated Security=SSPI");
         }
-        public DbSet<Product> products{ get; set; }
+        public DbSet<Product> Product { get; set; }
         public DbSet<OperationClaims> operationClaims { get; set; }
         public DbSet<User> users { get; set; }
         public DbSet<UserOperationClaims> userOperationClaims { get; set; }

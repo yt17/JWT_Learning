@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\ModelsDTO\\ModelsDTO.csproj": {}
+    "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\ModelsDTO\\ModelsDTO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\ModelsDTO\\ModelsDTO.csproj": {
+    "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\ModelsDTO\\ModelsDTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\ModelsDTO\\ModelsDTO.csproj",
+        "projectUniqueName": "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\ModelsDTO\\ModelsDTO.csproj",
         "projectName": "ModelsDTO",
-        "projectPath": "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\ModelsDTO\\ModelsDTO.csproj",
+        "projectPath": "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\ModelsDTO\\ModelsDTO.csproj",
         "packagesPath": "C:\\Users\\taner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\ModelsDTO\\obj\\",
+        "outputPath": "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\ModelsDTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\taner\\AppData\\Roaming\\NuGet\\NuGet.Config",

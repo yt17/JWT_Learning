@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\BL\\BL.csproj": {}
+    "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\BL\\BL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\BL\\BL.csproj": {
+    "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\BL\\BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\BL\\BL.csproj",
+        "projectUniqueName": "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\BL\\BL.csproj",
         "projectName": "BL",
-        "projectPath": "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\BL\\BL.csproj",
+        "projectPath": "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\BL\\BL.csproj",
         "packagesPath": "C:\\Users\\taner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\BL\\obj\\",
+        "outputPath": "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\BL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\taner\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,14 +28,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\DAL\\DAL.csproj"
+              "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\DAL\\DAL.csproj"
               },
-              "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\Entities\\Entities.csproj"
+              "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\ModelsDTO\\ModelsDTO.csproj": {
-                "projectPath": "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\ModelsDTO\\ModelsDTO.csproj"
+              "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\ModelsDTO\\ModelsDTO.csproj": {
+                "projectPath": "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\ModelsDTO\\ModelsDTO.csproj"
               }
             }
           }
@@ -57,6 +57,14 @@
             "Autofac.Extensions.DependencyInjection": {
               "target": "Package",
               "version": "[7.1.0, )"
+            },
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.3.6, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -116,14 +124,14 @@
         }
       }
     },
-    "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\CORE\\CORE.csproj": {
+    "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\CORE\\CORE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\CORE\\CORE.csproj",
+        "projectUniqueName": "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\CORE\\CORE.csproj",
         "projectName": "CORE",
-        "projectPath": "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\CORE\\CORE.csproj",
+        "projectPath": "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\CORE\\CORE.csproj",
         "packagesPath": "C:\\Users\\taner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\CORE\\obj\\",
+        "outputPath": "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\CORE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\taner\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -160,6 +168,14 @@
               "target": "Package",
               "version": "[7.1.0, )"
             },
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.3.6, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.13, )"
@@ -218,14 +234,14 @@
         }
       }
     },
-    "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\DAL\\DAL.csproj": {
+    "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\taner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\taner\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -242,11 +258,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\CORE\\CORE.csproj": {
-                "projectPath": "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\CORE\\CORE.csproj"
+              "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\CORE\\CORE.csproj": {
+                "projectPath": "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\CORE\\CORE.csproj"
               },
-              "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\Entities\\Entities.csproj"
+              "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\Entities\\Entities.csproj"
               }
             }
           }
@@ -327,14 +343,14 @@
         }
       }
     },
-    "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\Entities\\Entities.csproj": {
+    "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\taner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\taner\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -351,8 +367,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\CORE\\CORE.csproj": {
-                "projectPath": "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\CORE\\CORE.csproj"
+              "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\CORE\\CORE.csproj": {
+                "projectPath": "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\CORE\\CORE.csproj"
               }
             }
           }
@@ -433,14 +449,14 @@
         }
       }
     },
-    "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\ModelsDTO\\ModelsDTO.csproj": {
+    "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\ModelsDTO\\ModelsDTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\ModelsDTO\\ModelsDTO.csproj",
+        "projectUniqueName": "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\ModelsDTO\\ModelsDTO.csproj",
         "projectName": "ModelsDTO",
-        "projectPath": "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\ModelsDTO\\ModelsDTO.csproj",
+        "projectPath": "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\ModelsDTO\\ModelsDTO.csproj",
         "packagesPath": "C:\\Users\\taner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\ModelsDTO\\obj\\",
+        "outputPath": "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\ModelsDTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\taner\\AppData\\Roaming\\NuGet\\NuGet.Config",

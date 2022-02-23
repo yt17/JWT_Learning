@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\CORE\\CORE.csproj": {}
+    "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\CORE\\CORE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\CORE\\CORE.csproj": {
+    "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\CORE\\CORE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\CORE\\CORE.csproj",
+        "projectUniqueName": "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\CORE\\CORE.csproj",
         "projectName": "CORE",
-        "projectPath": "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\CORE\\CORE.csproj",
+        "projectPath": "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\CORE\\CORE.csproj",
         "packagesPath": "C:\\Users\\taner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\taner\\source\\repos\\ApiWithJWT\\CORE\\obj\\",
+        "outputPath": "C:\\Users\\taner\\Documents\\GitHub\\JWT\\ApiWithJWT\\CORE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\taner\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -47,6 +47,14 @@
             "Autofac.Extensions.DependencyInjection": {
               "target": "Package",
               "version": "[7.1.0, )"
+            },
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.3.6, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",

@@ -11,3 +11,16 @@ C:\Users\taner\source\repos\ApiWithJWT\CORE\bin\Debug\netcoreapp3.1\CORE.pdb
 C:\Users\taner\source\repos\ApiWithJWT\CORE\obj\Debug\netcoreapp3.1\CORE.dll
 C:\Users\taner\source\repos\ApiWithJWT\CORE\obj\Debug\netcoreapp3.1\CORE.pdb
 C:\Users\taner\source\repos\ApiWithJWT\CORE\obj\Debug\netcoreapp3.1\CORE.genruntimeconfig.cache
+C:\Users\taner\Documents\GitHub\JWT\ApiWithJWT\CORE\bin\Debug\netcoreapp3.1\CORE.deps.json
+C:\Users\taner\Documents\GitHub\JWT\ApiWithJWT\CORE\bin\Debug\netcoreapp3.1\CORE.runtimeconfig.json
+C:\Users\taner\Documents\GitHub\JWT\ApiWithJWT\CORE\bin\Debug\netcoreapp3.1\CORE.runtimeconfig.dev.json
+C:\Users\taner\Documents\GitHub\JWT\ApiWithJWT\CORE\bin\Debug\netcoreapp3.1\CORE.dll
+C:\Users\taner\Documents\GitHub\JWT\ApiWithJWT\CORE\bin\Debug\netcoreapp3.1\CORE.pdb
+C:\Users\taner\Documents\GitHub\JWT\ApiWithJWT\CORE\obj\Debug\netcoreapp3.1\CORE.csproj.AssemblyReference.cache
+C:\Users\taner\Documents\GitHub\JWT\ApiWithJWT\CORE\obj\Debug\netcoreapp3.1\CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taner\Documents\GitHub\JWT\ApiWithJWT\CORE\obj\Debug\netcoreapp3.1\CORE.AssemblyInfoInputs.cache
+C:\Users\taner\Documents\GitHub\JWT\ApiWithJWT\CORE\obj\Debug\netcoreapp3.1\CORE.AssemblyInfo.cs
+C:\Users\taner\Documents\GitHub\JWT\ApiWithJWT\CORE\obj\Debug\netcoreapp3.1\CORE.csproj.CoreCompileInputs.cache
+C:\Users\taner\Documents\GitHub\JWT\ApiWithJWT\CORE\obj\Debug\netcoreapp3.1\CORE.dll
+C:\Users\taner\Documents\GitHub\JWT\ApiWithJWT\CORE\obj\Debug\netcoreapp3.1\CORE.pdb
+C:\Users\taner\Documents\GitHub\JWT\ApiWithJWT\CORE\obj\Debug\netcoreapp3.1\CORE.genruntimeconfig.cache
