@@ -55,6 +55,7 @@ namespace API
                 };
             });
 
+
             services.addDependencyResolvers(new ICoreModule[] { new CoreModule() });
         }
 
