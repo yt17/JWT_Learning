@@ -1,4 +1,7 @@
+using CORE.DepencyResolver;
+using CORE.Extensions;
 using CORE.Jwt;
+using CORE.Utilities;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -38,7 +41,7 @@ namespace API
             });
 
             var tokenOptions = Configuration.GetSection("TokenOptions").Get<TokenOptions>();
-            var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(tokenOptions.SecurityKey));
+                var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(tokenOptions.SecurityKey));
             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(opt=> {
                 opt.TokenValidationParameters = new Microsoft.IdentityModel.Tokens.TokenValidationParameters
                 {
@@ -51,6 +54,8 @@ namespace API
                     IssuerSigningKey = securityKey
                 };
             });
+
+            services.addDependencyResolvers(new ICoreModule[] { new CoreModule() });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
