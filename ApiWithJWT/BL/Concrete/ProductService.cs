@@ -24,7 +24,9 @@ namespace BL.Concrete
         [ValidationAspect(typeof(ProductValidator))]
         public bool AddProduct(ProductDTO product)
         {
-            // ValidationTool.Validate(new ProductValidator(), product);
+            //ValidationTool.Validate(new ProductValidator(), product);
+            //ProductValidator asd = new ProductValidator();
+            
             Product asd = new Product()
             {
                 ID = product.ID,
